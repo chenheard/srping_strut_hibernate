@@ -8,7 +8,7 @@
 </head>
 <body>
 <div > haha </div>
-<div><p>这是一个段落</div>
+<div><p>这是一个段落</p><p>这是第二个段落</p></div>
 struts2 loading........
 </body>
 </html>
