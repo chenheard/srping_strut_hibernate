@@ -7,8 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 <div > haha </div>
 <div><p>这是一个段落</p><p>这是第二个段落</p></div>
+
+<div background="red"> haha </div>
 struts2 loading........
 </body>
 </html>
