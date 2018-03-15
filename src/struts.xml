@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC  
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"  
+    "D:\struts-2.2.3.1\src\core\src\main\resources\struts-2.0.dtd">  
+  
+<struts>  
+  
+    <constant name="struts.devMode" value="true" />  
+    <package name="default" namespace="/" extends="struts-default">  
+     <default-action-ref name="index" />
+        <action name="index">  
+            <result name="index.jsp"></result>  
+           
+        </action>  
+    </package>  
+  
+</struts>  
